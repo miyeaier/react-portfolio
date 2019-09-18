@@ -1,0 +1,32 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f5f5f5;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-size :55px;
+  font-family: "SimHei";
+  font-style: italic;
+  font-weight: bold;
+  line-height:10;
+  color:whitesmoke;
+  color:rgba(0, 0, 0, 0.5)
+}
+p{color:whitesmoke;
+  color:rgba(0, 0, 0, 0.5)}
+.main.container {
+  margin-top: 4em;
+}
+body  {background-image: URL(
+  https://images.unsplash.com/photo-1543539748-a4bf17a68a8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1683&q=80
+  );background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;}

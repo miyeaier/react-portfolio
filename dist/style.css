@@ -18,20 +18,29 @@
         font-family: "SimHei";
         font-style: italic;
         font-weight: bold;
-        line-height:10;
-        color:whitesmoke;
-        color:rgba(0, 0, 0, 0.6)
+        line-height:5;
+        color:#F2F3F4;
+        
       }
-
+   p1{
+    text-align: center;
+    font-size :35px;
+    font-family: "SimHei";
+    font-style: italic;
+    font-weight: bold;
+    line-height:1;
+    color:#E5E7E9;
+   }
+   
   h2
       {
         text-align:center;
         font-size :55px;
         font-family: "SimHei";
         font-weight: bold;
-        line-height:2;
-        color:black;
-        color:rgba(0, 0, 0, 0.9)
+        line-height:5;
+        color:#E5E7E9;
+   
       }
   h3
 
@@ -41,12 +50,77 @@
         font-style: italic;
         font-weight: bold;
         line-height:10;
-        color:whitesmoke;
+        color:#E5E7E9
       }
-
-  p  {
-        color:black;
-        color:rgba(36, 34, 34, 0.7)
+       
+   
+  p  { 
+        font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+        
+      }
+      p3{
+        font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+       }
+       p4{
+        font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+       }
+      p5{
+        font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+      }
+      p6{font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+      }
+      p7{
+        font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+      }
+      p8{font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+      }
+      p9{font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+      }
+      p10{
+        font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
+      }
+      p11{
+        font-size :22px;
+        font-family: "SimHei";
+        font-style: italic;
+        font-weight: bold;
+        color:#E5E7E9;
       }
       
  .main.container {

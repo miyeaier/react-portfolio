@@ -1,16 +1,38 @@
 import React from "react"
-import { UndrawDesignerLife } from 'react-undraw-illustrations';
+
 
   const About = () => {
     return (
       <div className="ui main container">
         <div class="ui stackable two column grid">
           <div class="column">
-            <UndrawDesignerLife />
+             <img src="https://github.com/miyeaier/react-portfolio/blob/master/Img/IMG_7385.jpeg?raw=true" Alt="this is img text-align"class="ui medium circular image"src="/images/wireframe/square-image.png"></img>
           </div>
           <div class="column">
             <h1 className="ui header">About Me</h1>
-            <p>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</p>
+            <p>My name is Miyesier Kaerman,</p>
+            <p3>Im fram Kashgar,Now studying </p3>
+            <br/>
+            <br/>
+               <p5>at Craft Academy ,I am Barista</p5>
+               <br/>
+               <br/>
+                 <p6>  who does not drink coffee and is </p6>
+                 <br/>
+                 <br/>
+                <p7> also a photographer, nature lovers.</p7>
+               <br/>
+                <br/>
+                <p8>Because I like to learn different  </p8>
+                 <br/>
+                 <br/>
+                 <p9> knowledge and I wish to working IT </p9> 
+                 <br/>
+                 <br/>
+                 <p10> industry I started learning coding at </p10>
+                 <br/>
+                 <br/>
+                 <p11>Craft Academy</p11>
           </div>
         </div>
       </div>

@@ -36,11 +36,11 @@ class Projects extends Component {
         <div className="ui main container">
           <div className="ui stackable two column grid">
             <div className="column">
-              <UndrawDesigner/>
+           
             </div>
             <div className="column">
-              <h3 className="ui header">My Projects</h3>
-              <p>My name is Miyesier Im fram Kashgar,Now studying at Craft Academy </p>
+              <h6 className="ui header">My Projects</h6>
+              <p>Now is the third week of my study. These are the results of my work with my partners.</p>
             </div>
           </div>
           <div className="ui stackable four column grid">

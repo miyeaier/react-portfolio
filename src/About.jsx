@@ -6,7 +6,7 @@ import React from "react"
       <div className="ui main container">
         <div class="ui stackable two column grid">
           <div class="column">
-             <img src="https://github.com/miyeaier/react-portfolio/blob/master/Img/IMG_7385.jpeg?raw=true" Alt="this is img text-align"class="ui medium circular image"src="/images/wireframe/square-image.png"></img>
+            
           </div>
           <div class="column">
             <h1 className="ui header">About Me</h1>

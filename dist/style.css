@@ -50,8 +50,17 @@
         font-style: italic;
         font-weight: bold;
         line-height:10;
-        color:#E5E7E9
+        color:white
       }
+  h6 {
+    font-size :30px;
+    font-family: "SimHei";
+    font-style: italic;
+    font-weight: bold;
+    line-height:10;
+    color:#E5E7E9
+
+  }
        
    
   p  { 

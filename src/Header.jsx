@@ -8,6 +8,8 @@ const Header = () => {
           <Link className="header item" to='/'>My Portfolio<i class="chess icon"></i></Link>
           <div className="right menu">
            <NavLink className="ui item" activeStyle={{ fontWeight: "bold" }} to='/about'>About Me<i class="chess queen icon"></i></NavLink>
+            <NavLink className="ui item" activeStyle={{ fontWeight: "bold" }} to='/Jobexperience'>Jobexperience<i class="chess pawn icon"></i></NavLink>
+            <NavLink className="ui item" activeStyle={{ fontWeight: "bold" }} to='/Education'>Education<i class="chess knight icon"></i></NavLink>
             <NavLink className="ui item" activeStyle={{ fontWeight: "bold" }} to='/projects'>Projects<i class="chess board icon"></i></NavLink>
           </div>
         </div>

@@ -30,8 +30,7 @@ import { UndrawDesigner } from 'react-undraw-illustrations';
           <div className="">ui main container
             <div className="ui stackable two column grid">
               <div className="center">
-            
-              </div>
+            </div>
               <div className="center">
               <div class="ui segment">
      <h2 class="ui center header">projekt</h2>

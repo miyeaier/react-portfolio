@@ -1,5 +1,6 @@
 import React, { Component } from "react"
 import axios from "axios"
+import EducationCard from "./EducationCard"
 
 class Education extends Component {
   constructor() {
@@ -12,15 +13,14 @@ class Education extends Component {
   render() {
     const Education = this.state.Education
     let EducationList
-
+     
     if (Education.length > 0) {
       EducationList = Education.map(Education => {
         return (
           <div key={Education.id}>
-            <h3 className="ui header">
-              {Education.name}
-            </h3>
+           <EducationCard Education={Education} />
           </div>
+        
         )
       })
     }
@@ -29,9 +29,13 @@ class Education extends Component {
 
       <div className="ui main container">
         <h1 className="ui header">My Education</h1>
+        <div className="ui stackable four column grid">
         {EducationList}
+        
+        </div>
       </div>
-
+       
+   
                )
   }
   componentDidMount() {

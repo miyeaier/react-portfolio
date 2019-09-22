@@ -1,10 +1,20 @@
 [
   {
+    
     "id": 1,
-    "name": "My First Website"
+    "name": "Lovalot AB",
+    "Image":"https://github.com/miyeaier/react-portfolio/blob/master/Img/IMG_7466.jpeg?raw=true",
+    "description": "2015-2018 Assist designer and online market handler"
   },
   {
     "id": 2,
-    "name": "FizzBuzz"
-  }
+    "name": "Koffe Koya",
+    "description": "2018-2019 Store assist manager, coffee maker and online market handler"
+  },
+
+  {
+    "id": 3,
+    "name": "Foto",
+    "description": "2019- now Freelance photographer "
+  } 
 ]

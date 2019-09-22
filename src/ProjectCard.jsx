@@ -14,12 +14,16 @@ const ProjectCard = (props) => {
           <div class="description">
             {project.description}
           </div>
-        </div>
+        
+          </div>
+       
       </div>
     </>
   )
 }
 
-
+        
+     
+  
 
 export default ProjectCard

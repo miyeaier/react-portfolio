@@ -3,13 +3,13 @@
     
     "id": 1,
     "name": "Lovalot AB",
-    "Image":"https://github.com/miyeaier/react-portfolio/blob/master/Img/IMG_7466.jpeg?raw=true",
-    "description": "2015-2018 Assist designer and online market handler"
+
+    "description": "2015-2018 Assist designer "
   },
   {
     "id": 2,
     "name": "Koffe Koya",
-    "description": "2018-2019 Store assist manager, coffee maker and online market handler"
+    "description": "2018-2019 Store assist manager, coffee maker "
   },
 
   {

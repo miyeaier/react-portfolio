@@ -36,11 +36,14 @@ class Jobexperience extends Component {
 <img src="https://github.com/miyeaier/react-portfolio/blob/master/Img/FullSizeRender-2.jpeg?raw=true"> 
 </img> </a>
         ,
+        
 <a href="https://www.instagram.com/cafekoyastockholm/?igshid=12p8a2nkw69tp "class="ui medium image">
 <img src="https://github.com/miyeaier/react-portfolio/blob/master/Img/FullSizeRender-1.jpeg?raw=true"> 
 </img> </a>,
+
+
 <a href="https://instagram.com/miyessarrr?igshid=1aykyk8hqgrnk "class="ui medium image">
-<img src="https://github.com/miyeaier/react-portfolio/blob/master/Img/FullSizeRender.jpeg?raw=true"> 
+<img src="https://github.com/miyeaier/react-portfolio/blob/master/Img/FullSizeRender-3.jpeg?raw=true"> 
 </img> </a>,
       <h1 className="ui header">Jobexperience</h1>
       <div className="ui stackable four column grid">
